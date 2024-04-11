@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(236, 255, 236);
+}
+
+h1 {
+    color: rgb(236, 255, 236);
+    background-color: rgb(13, 126, 13);
+    text-align: center;
+}
+
+h2,
+h3 {
+    color: rgb(13, 126, 13);
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 18px;
+}
+
+
